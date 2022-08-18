@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Aastha-Shreya
 - 👀 My interest is towards Data Analysis and Data Science
-- 🌱 I’m currently learning Machine learning Concepts and Mathematics involved and persuing B-Tech CS(III year)
+- 🌱 I’m currently learning Machine learning Concepts and Mathematics involved and persuing B-Tech CS(IV year)
 - 💞️ I’m looking forward to work on projects which are on my mind, out of which include "Leap Reading In RealTime"," Using EEG in interrogating Criminals."
+- Currently Working on Natural Language Processing Project
 - 📫 How to reach me aastha.shreya_cs19@gla.ac.in
 
 <!---
